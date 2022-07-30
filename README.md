@@ -13,7 +13,7 @@
 <Br>
 Esta é uma API desenvolvida como entrega final do BootCamp de desenvolvimento BackEnd da {Reprograma}, também se encontra conectada a um banco de dados e inclui as funcionalidades de autenticação por Token e a possibilidade de Login.
 <br>
-<!--te-->
+
 
 ### Índice
 
@@ -22,7 +22,7 @@ Esta é uma API desenvolvida como entrega final do BootCamp de desenvolvimento B
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Mais detalhes](#mais-detalhes)
 
-<!--te-->
+
 
 ## Fontes de Vida
 
