@@ -20,10 +20,7 @@ Esta é uma API desenvolvida como entrega final do BootCamp de desenvolvimento B
 - [Fontes de Vida](#fontes-de-vida)
 - [Arquitetura](#arquitetura)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Interface para Teste das Rotas](#interface-para-teste-das-rotas)
-- [Preparando o Ambiente para Autenticação](#preparando-o-ambiente-para-autenticação)
-- [Testando Rotas de Login e Proteção das Rotas](#testando-rotas-de-login-e-proteção-das-rotas)
-- [Documentação](#documentação-1)
+- [Mais detalhes](#mais-detalhes)
 
 <!--te-->
 
@@ -101,12 +98,7 @@ Esta aplicação está organizada da seguinte maneira:
 - [swagger-autogen](https://www.npmjs.com/package/swagger-autogen)
 - [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 
-## Interface para Teste das Rotas
 
-## Preparando o Ambiente para Autenticação
+## Mais detalhes
 
-## Testando Rotas de Login e Proteção das Rotas
-
-## Documentação
-
-    
+    https://www.canva.com/design/DAFH0bVd5fY/vkEX0ffBIPvDd8J1CFo66A/view?utm_content=DAFH0bVd5fY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
