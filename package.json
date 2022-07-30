@@ -4,8 +4,10 @@
   "description": "<h1 align=\"center\">\r     <br>\r     <p align=\"center\"> Fontes de Vida  <p>\r </h1>\r <h3>\r <p align=\"center\"> {reprograma} - BootCamp BackEnd Dev  <p>\r </h3>\r <Br>",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test:watch": "jest --watchAll",
+    "start": "node server.js",
+    "lint": "npx eslint --fix ./testes-estaticos",
+    "swagger-autogen": "node swagger.js"
   },
   "repository": {
     "type": "git",
